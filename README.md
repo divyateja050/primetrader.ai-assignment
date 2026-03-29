@@ -1,6 +1,6 @@
 # Backend Developer (Intern) Assignment: Task Manager
 
-A scalable, secure Task Management REST API featuring a fast Python backend and a responsive Vanilla JavaScript frontend. Built structurally to hit every metric of the initial assignment prompt.
+A scalable, secure Task Management REST API featuring a fast Python backend and a responsive Vanilla JavaScript frontend.
 
 ## 🏆 Core Deliverables Achieved
 
