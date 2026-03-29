@@ -55,14 +55,6 @@ The frontend operates completely independently using pure `HTML` and native Brow
 
 Simply **double-click** `index.html` to boot the application directly in your browser, or spin up a fast development server natively:
 
-```bash
-python -m http.server 3000
-```
-
-Navigate to `http://localhost:3000` to launch the Task Dashboard!
-
----
-
 ### 4. Testing Admin Privileges (RBAC)
 
 Because the registration API is strictly locked down to prevent users from escalating their own privileges, an included Python script allows you to easily bypass it for local testing purposes.
